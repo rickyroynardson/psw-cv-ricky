@@ -18,6 +18,11 @@
         alt="Profile Image" class="w-36 h-36 object-cover object-top rounded-full mx-auto">
       <p class="text-4xl font-semibold">Ricky Roy Nardson</p>
       <p class="text-xl">Web Developer</p>
+      <a href="https://rrn.vercel.app/"
+        class="inline-flex rounded-full bg-blue-500 text-white px-4 py-2 hover:bg-blue-600 transition duration-300 font-semibold text-sm"
+        target="_blank">Check
+        me
+        out!</a>
     </div>
   </div>
 </body>
